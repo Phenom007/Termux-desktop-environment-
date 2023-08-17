@@ -1,9 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-## Author  : Aditya Shakya (adi1090x)
-## Mail    : adi1090x@gmail.com
-## Github  : @adi1090x
-## Twitter : @adi1090x
+## Author  : Phenom
+## Mail    : mr.carlsen6@gmail.com
+## Github  : @phenom007
+## Twitter : @phenom007
 
 ## Termux Desktop : Setup GUI in Termux 
 
@@ -54,7 +54,7 @@ usage() {
 
 ## Update, X11-repo, Program Installation
 _pkgs=(bc bmon calc calcurse curl dbus desktop-file-utils elinks feh fontconfig-utils fsmon \
-		geany git gtk2 gtk3 htop-legacy imagemagick jq leafpad man mpc mpd mutt ncmpcpp \
+		geany git gtk2 gtk3 htop imagemagick jq leafpad man mpc mpd mutt ncmpcpp \
 		ncurses-utils neofetch netsurf obconf openbox openssl-tool polybar ranger rofi \
 		startup-notification termux-api thunar tigervnc vim wget xarchiver xbitmaps xcompmgr \
 		xfce4-settings xfce4-terminal xmlstarlet xorg-font-util xorg-xrdb zsh)
